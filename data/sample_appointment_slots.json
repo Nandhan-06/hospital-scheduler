@@ -1,0 +1,4 @@
+[
+  {"doctor_id": "D01", "date": "2026-08-10", "time": "09:30", "time_of_day": "morning", "status": "available"},
+  {"doctor_id": "D02", "date": "2026-08-09", "time": "10:00", "time_of_day": "morning", "status": "available"}
+]

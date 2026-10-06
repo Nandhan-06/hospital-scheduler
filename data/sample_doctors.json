@@ -1,0 +1,10 @@
+[
+  {"doctor_id": "D01", "specialty": "Cardiology", "hospital": "Apollo Hospital",
+   "insurance_accepted": ["Star Health", "HDFC Ergo"], "consultation_fee_inr": 1200,
+   "rating": 4.6, "tags": ["experienced", "english-speaking"],
+   "notes": "15 years experience, accepts Star Health."},
+  {"doctor_id": "D02", "specialty": "Cardiology", "hospital": "Fortis Hospital",
+   "insurance_accepted": ["ICICI Lombard", "Bajaj Allianz"], "consultation_fee_inr": 1800,
+   "rating": 4.8, "tags": ["experienced", "senior consultant"],
+   "notes": "Highest rated cardiologist in the dataset, but deliberately does NOT accept Star Health - the insurance trap."}
+]

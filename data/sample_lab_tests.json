@@ -1,0 +1,4 @@
+[
+  {"test_id": "L01", "test_name": "Lipid Profile + ECG", "linked_specialty": "Cardiology",
+   "price_inr": 650, "turnaround_hours": 4, "notes": "Standard pre-consultation cardiac workup."}
+]
